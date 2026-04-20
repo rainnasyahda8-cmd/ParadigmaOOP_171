@@ -26,6 +26,7 @@ int main(){
     Barang nonElektronik;
     nonElektronik.nama = "Kursi";
     nonElektronik.jumlah = 4;
-    nonElektronik.
+    nonElektronik.kategori = "nonElektronik";
+    nonElektronik.tanggalProduksi = ""
 
 }
