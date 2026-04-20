@@ -14,7 +14,8 @@ public :
         cout << "Kategori " << kategori << endl;
         cout << "Tanggal Produksi " << tanggalProduksi << endl;
     }
+};// batas class
 
-
-
-};
+int main(){
+    
+}
