@@ -17,5 +17,5 @@ public :
 };// batas class
 
 int main(){
-    
+    Barang elektronik;
 }
