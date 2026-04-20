@@ -18,4 +18,7 @@ public :
 
 int main(){
     Barang elektronik;
+    elektronik.nama = "TV";
+    elektronik.jumlah = 2;
+    elektronik.ka
 }
